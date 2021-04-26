@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jiachengye.maxpoi.profile)
-
 # Hi there 👋
 This is Jiacheng Ye (maxpoi) :japanese_goblin:
   - from :cn:

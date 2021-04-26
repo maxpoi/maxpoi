@@ -7,7 +7,7 @@ This is Jiacheng Ye (maxpoi) :japanese_goblin:
   - ```building services/softwares```
   
 When I am free, I ususally go out ```taking photos``` :camera_flash:, ```play games``` :video_game: or ```listen to rock/pop/classical musics``` :musical_score:  . 
-  - Favourite Chinese band: New Pants
+  - favourite Chinese band: New Pants
   - favourite singer: Ed Sheeran 
   - favourite composer: Chopin
 

@@ -65,5 +65,4 @@ Guaranteed
 
 ### My status :sleeping:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxpoi&layout=compact)](https://github.com/maxpoi)
-
 ![maxpoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxpoi&show_icons=true&include_all_commits=true&count_private=true)

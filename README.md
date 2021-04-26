@@ -12,7 +12,7 @@ When I am free, I ususally go out ```taking photos``` :camera_flash:, ```play ga
   - favourite composer: Chopin
 
 📫 How to reach me: 
-  - email: jiachengy1@gmail.com
+  - email: jiachengy1998@gmail.com
   - wechat: Email me first :D
 
 ## Mostly use tech :star2:

@@ -64,10 +64,6 @@ Guaranteed
 ```
 
 ### My status :sleeping:
-<a href="https://github.com/maxpoi?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxpoi&hide_langs_below=1" />
-</a>
-<!-- Profile highlights -->
-<a href="https://github.com/maxpoi?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxpoi&show_icons=true&line_height=40" alt="maxpoi's github stats"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxpoi&layout=compact)](https://github.com/maxpoi)
+
+![maxpoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxpoi&show_icons=true&include_all_commits=true&count_private=true)

@@ -24,7 +24,6 @@ When I am free, I ususally go out ```taking photos``` :camera_flash:, ```play ga
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
 ![Tensorflow](https://badges.aleen42.com/src/tensorflow.svg)
 
 <!-- ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis) -->
@@ -32,7 +31,7 @@ When I am free, I ususally go out ```taking photos``` :camera_flash:, ```play ga
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)  -->
 <!-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)  -->
 
-## Here I present my life song to you: 
+## Here I present my life song to you :thought_balloon:
 ```Guaranteed```
 
 ```On bended knee is no way to be free

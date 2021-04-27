@@ -1,4 +1,4 @@
-# HI
+# HI 👀
 This is Jiacheng Ye (maxpoi) :japanese_goblin:
   - from :cn:
   - studied for 9 years in Oz :australia:
